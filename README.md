@@ -1,4 +1,4 @@
-View page on tonimaafroze.github.io
+View page on https://tonimaafroze.github.io
 
 Agency Jekyll theme
 ====================
@@ -23,6 +23,10 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+# Build Locally
+``% bundle exec jekyll serve``
+
+serves the page on `http://127.0.0.1:4000/`
 
 # Demo
 
