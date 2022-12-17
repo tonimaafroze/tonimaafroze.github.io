@@ -43,16 +43,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/tonima-afroze/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://stackoverflow.com/users/4636874/toni
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/tonimaafroze
 
 # Postal address (add as many lines as necessary)
 address:
